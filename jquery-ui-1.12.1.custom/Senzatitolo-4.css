@@ -1,0 +1,249 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#superammasso{
+		/*dimensioni*/
+	width: 100%;
+	height: 194,8px;
+	background-color: #49167C !important;
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	z-index: 1000 !important;
+	color: white !important;
+    padding-left: 100px;
+	font-size: 72px;
+	position: relative;
+	float : left;
+	padding-top: 42px !important;
+	padding-bottom: 42px !important;
+	display: none;
+}
+
+#talkssuperammasso{
+	
+	width: 100%;
+	height: 80px;
+	background-color: #501D83;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+#visualsuperammasso{
+	width: 100%;
+	height: 80px;
+	background-color: #562389;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+
+/*       GRUPPO LOCALE        */
+
+
+#gruppolocale{
+			/*dimensioni*/
+	width: 100%;
+	/*height: 194,8px;*/
+	background-color: #5E2B91;
+	
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	
+	z-index: 1000;
+	color: white !important;
+    padding-left: 100px;
+	font-size: 72px;
+	position: relative;
+	float : left;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	display: none;
+}
+#talksgruppolocale{
+	width: 100%;
+	height: 80px;
+	background-color: #653298;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+#visualgruppolocale{
+		width: 100%;
+	height: 80px;
+	background-color: #6C399F;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+
+
+/*       VIA LATTEA         */
+
+#vialattea{
+	/*dimensioni*/
+	width: 100%;
+	/*height: 194,8px;*/
+	background-color: #7340A6;
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	z-index: 1000;
+	color: white !important;
+    padding-left: 100px;
+	font-size: 72px;
+	position: relative;
+	float : left;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	display: none;
+}
+
+#talksvialattea{
+	width: 100%;
+	background-color: #7A47AD;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+#visualvialattea{
+	width: 100%;
+	background-color: #804DB3;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 1000;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+
+
+/*       SISTEMA SOLARE         */
+
+
+
+#sistemasolare{
+	/*dimensioni*/
+	width: 100%;
+	/*height: 194,8px;*/
+	background-color: #8855BB;
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	z-index: 100;
+	color: white !important;
+    padding-left: 100px;
+	font-size: 72px;
+	position: relative;
+	float : left;
+	padding-top: 42px;
+	padding-bottom: 42px;	
+	display: none;
+	
+}
+
+#talkssistemasolare{
+	width: 100%;
+	height: 15vh;
+	background-color: #8F5CC2;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 100;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
+#visualsistemasolare{
+	width: 100%;
+	height: 80px;
+	background-color: #9461C7;
+	/*font*/
+	font-family: 'Fedra Mono';
+	font-weight: 100;
+	font-style: normal;
+	z-index: 100;
+	color: white;
+	padding-left: 100px;
+	font-size: 64px;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	/*posizionamento */
+	position: relative;
+	float : left;
+	border: none;
+}
+
